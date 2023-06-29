@@ -2779,10 +2779,10 @@
   },
   "Projects": [
     {
-      "link": "https://panditshivammishra.github.io/firstgame.github.io/",
-      "title": "My guess Game",
-      "description": "It's a random number guess game",
-      "tech": ["HTML", "CSS","Javascript"]
+      "link": "https://mytextutils1234.netlify.app/",
+      "title": "MyTextUtil app",
+      "description": "It's a text transformer",
+      "tech": ["HTML", "CSS","Javascript","ReactJs"]
     }
   ]
 }
